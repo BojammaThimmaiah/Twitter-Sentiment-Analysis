@@ -1,7 +1,7 @@
 # Twitter-Sentiment-Analysis
 This repository contains codes and datasets used for Twitter Sentiment Analysis Using Machine Learning.
 
-# Dataset Information
+#  Dataset Information
 
 The objective of this task is to detect negative speech in tweets. We say a tweet contains hate speech if it has a hate sentiment associated with it. So,the task is to classify negative tweets from other tweets.
 
